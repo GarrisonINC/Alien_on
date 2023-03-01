@@ -1,0 +1,21 @@
+body {
+    background-color: lavender;
+}
+
+.header_div {
+    background-color:navy;
+    color:orange;
+    font-family: cursive;
+}
+
+.header_div p{
+    font-size: 12px;
+    font-weight:bold;
+    letter-spacing: 2px;
+}
+
+.main_div button {
+    margin-top:30px;
+    width:130px;
+    font-size: 23px;
+}
